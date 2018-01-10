@@ -1,0 +1,5 @@
+#ignore some files which will not need
+testgitbranch/Debug
+testgitbranch/testgitbranch.sdf
+testgitbranch/testgitbranch/Debug
+
