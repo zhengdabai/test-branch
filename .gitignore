@@ -3,4 +3,8 @@ testgitbranch/Debug
 testgitbranch/testgitbranch.sdf
 testgitbranch/testgitbranch.sln
 testgitbranch/testgitbranch/Debug
+testgitbranch/*.suo
+testgitbranch/*.sdf 
+testgitbranch/*.opensdf 
+testgitbranch/*.vcxproj.user
 
