@@ -4,6 +4,7 @@ int main()
 {
 	cout << "testqqwq123" << endl;
 	cout << "testqqwq123" << endl;
+	cout << "testqqwq12" << endl;
 //12333
 
 	while (1)
