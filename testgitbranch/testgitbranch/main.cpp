@@ -7,6 +7,10 @@ void local2()
 {
 	cout << "test1" <<endl;
 }
+void loca()
+{
+
+}
 int main()
 {
 	local2();
