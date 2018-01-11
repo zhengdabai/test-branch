@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <math.h>
-#include <timer.h>
+#include <timer.hh>
 using namespace td;
 using namespace st;
 
