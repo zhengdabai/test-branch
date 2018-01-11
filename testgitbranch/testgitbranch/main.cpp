@@ -2,6 +2,7 @@
 #include <vector>
 #include <math.h>
 using namespace td;
+using namespace st;
 
 void local2()
 {
