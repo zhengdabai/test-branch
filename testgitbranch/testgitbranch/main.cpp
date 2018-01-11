@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <math.h>
-using namespace std;
+using namespace td;
 
 void local2()
 {
