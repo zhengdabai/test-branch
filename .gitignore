@@ -3,6 +3,7 @@ testgitbranch/Debug
 testgitbranch/testgitbranch.sdf
 testgitbranch/testgitbranch.sln
 testgitbranch/testgitbranch/Debug
+
 *.suo
 *.sdf 
 *.opensdf 
