@@ -19,6 +19,6 @@ int main()
 	local2();
 	while (1)
 	{
-
+       cout<<"test"<<endl;
 	}
 }
